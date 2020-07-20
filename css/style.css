@@ -64,7 +64,7 @@ body, html {
 
 
 
-//inicio-trabajador
+/*/inicio-trabajador/*/
 body {
   margin: 0;
 }
@@ -100,7 +100,7 @@ li a:hover:not(.active) {
   color: white;
 }
 
-//formulario-reporte
+/*/formulario-reporte/*/
 * {
   box-sizing: border-box;
 }
